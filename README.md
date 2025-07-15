@@ -1,12 +1,10 @@
-# 🎶 Spotify Synesthesia ✨
+# 🎶 Synesthetic ✨
 
 Você já se perguntou qual a "cor" de *Bohemian Rhapsody*? Ou qual a "forma" daquele heavy metal que seu vizinho insiste em ouvir às 7 da manhã? Não? Bom, eu me perguntei. E como aparentemente eu tinha muito tempo livre, decidi criar esta aplicação.
 
-O **Spotify Synesthesia** é uma tentativa audaciosa (leia-se: fadada ao fracasso) de traduzir a música que você está ouvindo no Spotify em animações abstratas e hipnotizantes. A gente pega dados como BPM, energia e "dançabilidade" da sua música e transforma em um show de luzes particular na sua tela.
+O **Synesthetic** é uma tentativa audaciosa (leia-se: fadada ao fracasso) de traduzir a música que você está ouvindo no Spotify em animações abstratas e hipnotizantes. A gente pega dados como BPM, energia e "dançabilidade" da sua música e transforma em um show de luzes particular na sua tela.
 
 É basicamente sinestesia, mas sem precisar de anos de terapia ou substâncias questionáveis. 😵‍💫
-
-\![Gif da aplicação em funcionamento, com luzes e formas se movendo ao som de uma música pop genérica]
 
 -----
 

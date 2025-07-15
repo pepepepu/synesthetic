@@ -1,0 +1,54 @@
+/* Estilos para o container principal */
+.morphing-text-container {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  /* Equivalente a h-16 */
+  width: 100%;
+  /* Equivalente a max-w-screen-md */
+  text-align: left;
+  font-family: "Cormorant", serif;
+  /* Equivalente a font-sans */
+  font-size: 20pt;
+  font-weight: 500;
+  font-style: italic;
+  /* Equivalente a font-bold */
+  line-height: 1.5;
+  /* Equivalente a leading-none */
+  filter: url(#threshold) blur(0.6px);
+  color: #272727;
+}
+
+/* Estilos responsivos */
+@media (min-width: 768px) {
+  .morphing-text-container {
+    height: 6rem;
+    /* Equivalente a md:h-24 */
+  }
+}
+
+@media (min-width: 1024px) {
+  .morphing-text-container {
+    font-size: 2.5rem;
+    /* Equivalente a lg:text-[6rem] */
+  }
+}
+
+/* Estilos para os spans de texto */
+.morphing-text-span {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: auto;
+  display: inline-block;
+  width: 100%;
+}
+
+/* Estilos para o container do SVG */
+.svg-filters {
+  position: fixed;
+  height: 0;
+  width: 0;
+}

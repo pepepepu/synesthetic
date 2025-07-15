@@ -1,0 +1,36 @@
+// src/components/Login/Login.scss
+.login-page-wrapper {
+  position: relative;
+  overflow: hidden;
+
+  .login-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 100vw;
+    background-color: #EFEFEF;
+    color: white;
+    padding: 0px 50px;
+    pointer-events: none;
+
+    .login-text-area {
+      height: 15vh;
+    }
+
+    .login-button {
+      color: white;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      font-family: "Outfit", sans-serif;
+      transition: transform 0.2s ease;
+      pointer-events: auto;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}

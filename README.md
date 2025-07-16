@@ -1,12 +1,12 @@
 # 🎶 Synesthetic ✨
 
-Você já se perguntou qual a "cor" de *Bohemian Rhapsody*? Ou qual a "forma" daquele heavy metal que seu vizinho insiste em ouvir às 7 da manhã? Não? Bom, eu me perguntei. E como aparentemente eu tinha muito tempo livre, decidi criar esta aplicação.
+Você já se perguntou qual a "cor" de _Bohemian Rhapsody_? Ou qual a "forma" daquele heavy metal que seu vizinho insiste em ouvir às 7 da manhã? Não? Bom, eu me perguntei. E como aparentemente eu tinha muito tempo livre, decidi criar esta aplicação.
 
 O **Synesthetic** é uma tentativa audaciosa (leia-se: fadada ao fracasso) de traduzir a música que você está ouvindo no Spotify em animações abstratas e hipnotizantes. A gente pega dados como BPM, energia e "dançabilidade" da sua música e transforma em um show de luzes particular na sua tela.
 
 É basicamente sinestesia, mas sem precisar de anos de terapia ou substâncias questionáveis. 😵‍💫
 
------
+---
 
 ## 🤔 Mas Por Quê?
 
@@ -17,22 +17,22 @@ A ideia é simples:
 1.  **Você loga** com sua conta do Spotify (sim, eu vou ver seu gosto musical duvidoso).
 2.  **Eu pego sua música** atual e peço ao Spotify para me contar todos os segredos dela.
 3.  **Magia acontece**: Um algoritmo, escrito com café e código espaguete, usa esses dados para gerar formas, cores e movimentos.
-4.  **Você encara a tela** e se pergunta se a animação de *Baby Shark* é realmente uma obra de arte. (Spoiler: é.)
+4.  **Você encara a tela** e se pergunta se a animação de _Baby Shark_ é realmente uma obra de arte. (Spoiler: é.)
 
------
+---
 
 ## 🛠️ Tecnologias Utilizadas (O Arsenal)
 
 Este projeto foi construído com as ferramentas mais brilhantes e da moda, porque sou desses.
 
-  * **React**: Porque é o padrão, e eu gosto de sofrer com hooks.
-  * **Vite**: Para o build ser mais rápido que a minha vontade de abandonar o projeto.
-  * **TypeScript**: Para que o `undefined is not a function` apareça antes de ir para produção.
-  * **Spotify API**: A fonte de toda a verdade sobre seu gosto musical.
-  * **React Router DOM**: Para você se perder entre as três telas que a aplicação tem.
-  * **Sass/CSS**: Para deixar as coisas bonitas, ou pelo menos, não totalmente horríveis.
+- **React**: Porque é o padrão, e eu gosto de sofrer com hooks.
+- **Vite**: Para o build ser mais rápido que a minha vontade de abandonar o projeto.
+- **TypeScript**: Para que o `undefined is not a function` apareça antes de ir para produção.
+- **Spotify API**: A fonte de toda a verdade sobre seu gosto musical.
+- **React Router DOM**: Para você se perder entre as três telas que a aplicação tem.
+- **Sass/CSS**: Para deixar as coisas bonitas, ou pelo menos, não totalmente horríveis.
 
------
+---
 
 ## 🚀 Como Executar essa Obra de Arte (ou Desastre)
 
@@ -40,17 +40,17 @@ Acha que consegue fazer melhor? Ou só quer ver o circo pegar fogo? Siga os pass
 
 ### Pré-requisitos
 
-  * **Node.js**: Versão 18 ou superior. Se você não sabe o que é, talvez seja melhor parar por aqui.
-  * **Conta no Spotify**: E uma conta de desenvolvedor no [Spotify for Developers](https://developer.spotify.com/dashboard/). Sim, você vai ter que clicar em coisas.
-  * **Bom gosto musical**: Opcional, mas altamente recomendado.
+- **Node.js**: Versão 18 ou superior. Se você não sabe o que é, talvez seja melhor parar por aqui.
+- **Conta no Spotify**: E uma conta de desenvolvedor no [Spotify for Developers](https://developer.spotify.com/dashboard/). Sim, você vai ter que clicar em coisas.
+- **Bom gosto musical**: Opcional, mas altamente recomendado.
 
 ### Passo a Passo
 
 1.  **Clone este repositório (ou roube o código, não vou julgar):**
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-    cd SEU_REPOSITORIO
+    git clone https://github.com/pepepepu/synesthetic.git
+    cd synesthetic
     ```
 
 2.  **Instale as dependências (a parte chata):**
@@ -84,7 +84,7 @@ Acha que consegue fazer melhor? Ou só quer ver o circo pegar fogo? Siga os pass
 5.  **Reze e acesse `http://localhost:5173` no seu navegador.**
     Se tudo explodir, parabéns\! Você encontrou um bug. Se funcionar, uau, estou tão surpreso quanto você.
 
------
+---
 
 ## 🤝 Quer Ajudar?
 
@@ -98,16 +98,16 @@ Se você encontrou um bug, tem uma ideia genial ou simplesmente corrigiu um erro
 
 Prometo que vou olhar (eventualmente).
 
------
+---
 
 ## 👨‍💻 O Culpado por Trás do Código
 
 Se algo deu errado, ou (num cenário altamente improvável) você quer me parabenizar, aqui estão minhas informações de contato. Use com moderação.
 
-  * **Email**: [spedrobreno.2012@hotmail.com](mailto:spedrobreno.2012@hotmail.com)
-  * **LinkedIn**: [Pedro Oliveira](https://www.linkedin.com/in/pp-oliveira/)
+- **Email**: [spedrobreno.2012@hotmail.com](mailto:spedrobreno.2012@hotmail.com)
+- **LinkedIn**: [Pedro Oliveira](https://www.linkedin.com/in/pp-oliveira/)
 
------
+---
 
 ## 📜 Licença
 

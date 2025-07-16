@@ -7,7 +7,7 @@
   /* Equivalente a h-16 */
   width: 100%;
   /* Equivalente a max-w-screen-md */
-  text-align: left;
+  text-align: center;
   font-family: "Cormorant", serif;
   /* Equivalente a font-sans */
   font-size: 20pt;
@@ -17,7 +17,7 @@
   line-height: 1.5;
   /* Equivalente a leading-none */
   filter: url(#threshold) blur(0.6px);
-  color: #272727;
+  color: #efefef;
 }
 
 /* Estilos responsivos */
